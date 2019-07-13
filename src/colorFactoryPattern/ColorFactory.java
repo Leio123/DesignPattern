@@ -1,6 +1,6 @@
 package colorFactoryPattern;
 
-import AbstractFactoryPattern.AbstractFactory;
+import abstractFactoryPattern.AbstractFactory;
 import shapeFactoryPattern.EnumShape;
 import shapeFactoryPattern.Shape;
 

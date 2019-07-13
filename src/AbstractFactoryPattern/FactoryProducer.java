@@ -1,4 +1,4 @@
-package AbstractFactoryPattern;
+package abstractFactoryPattern;
 
 import colorFactoryPattern.ColorFactory;
 import shapeFactoryPattern.ShapeFactory;
